@@ -1,0 +1,12 @@
+{
+  "name": "react-nepal-map",
+  "version": "0.1.0",
+  "description": "React component for rendering map of Nepal",
+  "main": "index.tsx",
+  "repository": "git@github.com:techgaun/react-nepal-map.git",
+  "author": "techgaun",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2"
+  }
+}
